@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This was a project I did in my Object-Oriented Software Principles class. I made a spreadsheet application like Excel while practicing many software practices and design patterns such as TDD, DLL's, SOLID principles, GRASP, MVVM, Factory Method, Observer Method, Command Reflection. I used a C# GUI known as Winforms to develop this application. 
+This was a project I did in my Object-Oriented Software Principles class. I made a spreadsheet application like Excel while practicing many software practices and design patterns such as TDD, DLL's, SOLID principles, GRASP, MVVM, Factory Method, Observer Method, Command Pattern, Reflection. I used a C# GUI known as Winforms to develop this application. 
 
 The TDD can't be seen or tracked on this repo since it was done on a private GitLab repo for my school. 
 
@@ -11,8 +11,6 @@ The TDD can't be seen or tracked on this repo since it was done on a private Git
 ### Prerequisites
 
 ***Visual Studio Community*** - This program was built using Visual Studio Community. Install all the required languages and packages [here] (https://visualstudio.microsoft.com/vs/community/). This project uses C#, .NET Framework. I recommend just downloading everything. 
-
-***
 
 ### Quick Start Up
 
